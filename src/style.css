@@ -35,7 +35,7 @@ body {
 }
 
 .list-1 {
-    border: 2px solid white;
+    border-right: 2px solid white;
     background-color: rgba(41, 40, 40, 0.863);
     margin-left: 10px;
     width: 111px;
@@ -43,7 +43,7 @@ body {
 }
 
 .list-2 {
-    border: 2px solid white;
+    border-right: 2px solid white;
     background-color: rgba(41, 40, 40, 0.863);
     width: 111px;
     padding-top: 1px;
@@ -51,14 +51,14 @@ body {
 }
 
 .list-3 {
-    border: 2px solid white;
+    border-right: 2px solid white;
     background-color: rgba(41, 40, 40, 0.863);
     width: 111px;
     padding-top: 1px;
 }
 
 .list-4 {
-    border: 2px solid white;
+    border-right: 2px solid white;
     font-family: 'Montserrat', sans-serif;
     padding-top: 1px;
     background-color: rgba(49, 189, 37, 0.863);
@@ -66,7 +66,6 @@ body {
 }
 
 .list-5 {
-    border: 2px solid white;
     background-color: rgba(41, 40, 40, 0.863);
     flex-basis: 65%;
     margin-right: 10px;
